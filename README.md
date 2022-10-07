@@ -11,3 +11,5 @@ Para inicializar o micro front-end, deve ser inicializado os projetos individual
 
 - task-list: `yarn install` e `yarn start --port 8501`
   - O projeto será executado na porta 8501 onde foi configurado em nosso orquestrador (task-root) para identificar o build.
+
+Para visualizar o projeto, deve ser acessado pelo servidor do task-root: http://localhost:9000/task
